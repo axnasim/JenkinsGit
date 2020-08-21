@@ -20,7 +20,7 @@ sudo apt-get install jenkins
 
 ## Installing and Configuring Apache
 
-### Installing Apache
+### Installing Apache2
 
 ```bash
 sudo apt-get install apache2
