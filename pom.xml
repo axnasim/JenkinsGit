@@ -18,7 +18,7 @@
     </dependency>
   </dependencies>
   
-</project><build>
+ <build>
   <plugins>
     <plugin>
       <groupId>org.jacoco</groupId>
@@ -42,3 +42,4 @@
     </plugin>
   </plugins>
 </build>
+</project>
